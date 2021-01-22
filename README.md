@@ -1,4 +1,4 @@
-# Awesome Faith
+# Awesome Faith [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Curated list of awesome faith-based libraries, resources, and more.
 
