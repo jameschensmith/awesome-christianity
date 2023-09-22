@@ -6,6 +6,7 @@ Curated list of awesome faith-based libraries, resources, and more.
 
 - [Domain-Specific Languages (DSLs)](#domain-specific-languages-dsls)
 - [Applications](#applications)
+- [Structured Data](#structured-data)
 - [Talks](#talks)
 
 ## Domain-Specific Languages (DSLs)
@@ -17,6 +18,10 @@ Curated list of awesome faith-based libraries, resources, and more.
 
 - [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) - Cross-platform Bible application focusing on topical study based on keywords/tags.
 - [instant.bible](https://github.com/knpwrs/instant.bible) - Bible search engine which delivers results instantly as you type.
+
+## Structured Data
+
+- [Creeds.json](https://github.com/NonlinearFruit/Creeds.json) - Structured copies of Reformed creeds, confessions and catechisms.
 
 ## Talks
 
