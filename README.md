@@ -1,6 +1,6 @@
-# Awesome Faith [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Christianity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated list of awesome faith-based libraries, resources, and more.
+> A curated list of awesome libraries, resources, and more related to the Christian faith.
 
 ## Contents
 
