@@ -25,4 +25,4 @@ Curated list of awesome faith-based libraries, resources, and more.
 
 ## Talks
 
-- [Hope in Source](https://hopeinsource.com/) - Podcast about faith and open source.
+- [Hope in Source (unaffiliated)](https://hopeinsource.com/) - Podcast about faith and open source.
