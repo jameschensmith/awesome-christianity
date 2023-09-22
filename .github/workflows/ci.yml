@@ -25,4 +25,4 @@ jobs:
               with:
                   bun-version: latest
             - name: Lint Awesome list
-              run: bunx awesome-lint
+              run: bunx awesome-lint@0.18.3
