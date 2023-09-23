@@ -12,6 +12,7 @@
 ## Domain-Specific Languages (DSLs)
 
 - [Open Scriptural Information Standard (OSIS)](https://crosswire.org/osis) - XML schema for encoding Bibles and other biblical research texts.
+- [Scripture Burrito](https://github.com/bible-technology/scripture-burrito) - Data interchange format for Bible-centric content.
 - [Unified Standard Format Markers (USFM)](https://github.com/ubsicap/usfm) - Markup language for encoding the digital text for scripture translations.
 
 ## Applications
