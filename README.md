@@ -16,6 +16,7 @@
 
 ## Applications
 
+- [AndBible](https://github.com/AndBible/and-bible) - Powerful offline open source Bible Study tool for Android.
 - [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) - Cross-platform Bible application focusing on topical study based on keywords/tags.
 - [instant.bible](https://github.com/knpwrs/instant.bible) - Bible search engine which delivers results instantly as you type.
 
