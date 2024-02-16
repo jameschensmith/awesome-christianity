@@ -10,8 +10,8 @@ on:
 permissions: {}
 
 concurrency:
-    group: 'ci'
-    cancel-in-progress: false
+    group: 'ci-${{ github.ref }}'
+    cancel-in-progress: true
 
 jobs:
     run_static_tests:
